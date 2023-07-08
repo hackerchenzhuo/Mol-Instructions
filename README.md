@@ -14,6 +14,7 @@
 ## 🆕 News
 - \[**June 2023**\] We've open-sourced [KnowLM](https://github.com/zjunlp/KnowLM), a knowledgeable large language model framework! It comes with pre-training and instruction fine-tuning code (supports multi-machine multi-GPU setup). 
 - \[**June 2023**\] We release the first version (v1) of datasets and model weights.
+- \[**May 2023**\] We propose [Knowledge graph-enhanced molecular contrAstive learning with fuNctional prOmpt (KANO)](https://github.com/HICAI-ZJU/KANO) on `Nature Machine Intelligence`, exploiting fundamental domain knowledge in both pre-training and fine-tuning.
 - \[**March 2023**\] We propose [MolGen](https://github.com/zjunlp/MolGen), a robust pre-trained molecular generative model with self-feedback.
 
 
